@@ -1,1 +1,3 @@
-// ES6
+const User = {};
+
+const UsersContainer: User = () => {};

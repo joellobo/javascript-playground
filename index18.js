@@ -1,3 +1,3 @@
-lfjmSDFKLMSADlfsaDLFMSDf
-ASdaSDASdaSDASd
-ASDASdaSD
+const teste = () => {
+    console.log("teste");
+}

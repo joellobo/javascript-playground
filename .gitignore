@@ -1,0 +1,14 @@
+.settings
+.vscode
+node_modules/
+dist/
+tmp/
+coverage/
+img/
+spec-js/
+spec-build/
+.out/
+.tmp/
+npm-debug.log
+.DS_STORE
+*.tgz
